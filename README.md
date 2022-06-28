@@ -39,4 +39,11 @@ learning algorithms that’s best fit for the above case.
 
 Link: https://www.kaggle.com/divyeshardeshana/supply-chain-shipment-pricing-data
 
+# Packages:
 
+NUMPY,
+MATPLOTLIB,
+SKLEARN,
+SEABORN,
+PANDAS,
+XGBOOST
