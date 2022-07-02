@@ -3,7 +3,7 @@
 
 Shipment Pricing Prediction
 
-# Web app link
+# Prediction web app link
 
 https://huggingface.co/spaces/sumit12/SHIPMENT_PRICING_PREDICTION
 
