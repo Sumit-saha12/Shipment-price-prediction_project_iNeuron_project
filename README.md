@@ -3,6 +3,10 @@
 
 Shipment Pricing Prediction
 
+# Web app link
+
+https://huggingface.co/spaces/sumit12/SHIPMENT_PRICING_PREDICTION
+
 # Technologies
 
 Machine Learning Technology
